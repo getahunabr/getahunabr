@@ -1,7 +1,8 @@
 ![logo](https://github.com/getahunabr/getahunabr/blob/d11396a2c819e14528b480ef49f13affdfc066b6/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png?raw=true)
 <h1 align="center">Hi 👋, I'm Getahun Lakachew</h1>
-<h3 align="center">A passionate Software developer from Ethiopia</h3>
  <img src="https://komarev.com/ghpvc/?username=getahunabr&label=Profile%20views&color=0e75b6&style=flat" alt="getahunabr" /> 
+<h3 align="center">A passionate Software developer from Ethiopia</h3>
+
 <p align="left"></p>
 
 - 🌱 I’m currently learning **Node.js Express.js**
