@@ -1,4 +1,4 @@
-![logo](https://github.com/getahunabr/getahunabr/commit/d11396a2c819e14528b480ef49f13affdfc066b6)
+![logo](Navy Blue Geometric Technology LinkedIn Banner.png)
 <h1 align="center">Hi 👋, I'm Getahun Lakachew</h1>
 <h3 align="center">A passionate Software developer from Ethiopia</h3>
 
