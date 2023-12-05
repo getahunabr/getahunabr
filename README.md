@@ -1,4 +1,4 @@
-![logo](https://github.com/getahunabr/getahunabr/commit/aeda0d10c95942cd21c2987d9d32b8413c00c250)
+![logo]https://github.com/getahunabr/getahunabr/commit/d11396a2c819e14528b480ef49f13affdfc066b6)
 <h1 align="center">Hi 👋, I'm Getahun Lakachew</h1>
 <h3 align="center">A passionate Software developer from Ethiopia</h3>
 
