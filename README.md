@@ -1,8 +1,8 @@
 ![logo](https://github.com/getahunabr/getahunabr/blob/d11396a2c819e14528b480ef49f13affdfc066b6/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png?raw=true)
-<h2 align="left">Hi 👋! My name is  Getahun Lakachew and I'm a A passionate Software developer, from Ethiopia</h2>
+
 My passion for web development extends beyond the fundamentals - I provide customized services tailored to each client's unique business needs, brand identity, and vision. My goal is to bring your ideas to life through an application that adds value, with an innovative design that makes you stand out.
 
-As an experienced full-stack developer with over 7 years of experience, I am committed to delivering excellence by creating robust solutions using PHP, Laravel, Vue.js, and React.js that are genuinely beneficial for your business and users.
+As an experienced full-stack developer with over few years of experience, I am committed to delivering excellence by creating robust solutions using PHP, Laravel, Vue.js, and React.js that are genuinely beneficial for your business and users.
 
 My expertise includes:
 
