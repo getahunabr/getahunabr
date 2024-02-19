@@ -6,13 +6,13 @@ As an experienced full-stack developer with over few years of experience, I am c
 
 My expertise includes:
 
-⭐ Architecting scalable cloud-based applications and microservices on AWS
+⭐ Architecting scalable cloud-based applications and microservices 
 
-⭐ Building high-performance front-end interfaces with React/Vue.js
+⭐ Building high-performance front-end interfaces with React
 
-⭐ Developing secure Laravel/PHP backends and REST APIs
+⭐ Developing secure backends and REST APIs
 
-⭐ Integrating payment systems like Stripe, Klarna, and Affirm
+⭐ Integrating payment systems like Stripe
 
 ⭐ Optimizing MySQL/MongoDB databases for speed and efficiency
 
@@ -35,7 +35,7 @@ Let's bring your vision to life! Message me so we can discuss how my expertise c
 ✅ 
 ✏️ Frontend:
 
-✅  React.js, Vuex, Vuetify, Quasar, Buefy, Nuxt.js, Element UI
+✅  React.js, Nuxt.js, Element UI
 ✅ Webpack, babel
 ✅ Bootstrap, Tailwind CSS
 ✅ jQuery, Datatables,
@@ -45,14 +45,12 @@ Let's bring your vision to life! Message me so we can discuss how my expertise c
 ✅ 
 ✏️ Databases:
 
-✅ MySQL, PostgreSQL, MongoDB
-✏️ DevOps:
+✅ MySQL, MongoDB
+
 
 ✅  Apache,  Bash
 ✏️ Testing:
 
-✅ InfluxDB, Grafana, K6
-✅ Cypress.js Jest.js, PHPUnit
 ✏️ Design and prototype:
 
 ✅ Adobe XD
