@@ -20,7 +20,7 @@ My expertise includes:
 
 ⭐ Ensuring reliability through rigorous testing and debugging
 
-⭐ Leading Agile sprints, refactoring legacy code, and improving processes
+⭐ Leading Agile sprints and improving processes
 
 I focus on collaborating closely to understand exactly what you need and providing a product that accomplishes your goals and works seamlessly. My aim is to deliver both functional and cutting-edge applications that combine technical expertise with creative vision to produce results you will be proud of.
 
