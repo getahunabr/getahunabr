@@ -1,8 +1,10 @@
 ![logo](https://github.com/getahunabr/getahunabr/blob/d11396a2c819e14528b480ef49f13affdfc066b6/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png?raw=true)
 
-My passion for web development extends beyond the fundamentals - I provide customized services tailored to each client's unique business needs, brand identity, and vision. My goal is to bring your ideas to life through an application that adds value, with an innovative design that makes you stand out.
+I've been enjoying web development for the first time ever since I built my first JavaScript project, "Abe Garage". The consolidated toolchain makes me want to leave the other programming ecosystem behind for good.
 
-As an experienced full-stack developer with over few years of experience, I am committed to delivering excellence by creating robust solutions using PHP, Laravel, Vue.js, and React.js that are genuinely beneficial for your business and users.
+I'm currently on the look out for a role in backend web development, ideally writing robust solutions using Nextjs and React.js for frontend and Nodejs and Expressjs  . I'd especially love to work at a startup on a tight knit team where I can make an impact quickly. If you're hiring, let's chat!
+
+
 
 My expertise includes:
 
