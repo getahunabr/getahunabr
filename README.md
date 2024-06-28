@@ -2,7 +2,7 @@
 
 I've been enjoying web development for the first time ever since I built my first JavaScript project, "Abe Garage". The consolidated toolchain makes me want to leave the other programming ecosystem behind for good.
 
-I'm currently on the look out for a role in backend web development, ideally writing robust solutions using Nextjs and React.js for frontend and Nodejs and Expressjs  . I'd especially love to work at a startup on a tight knit team where I can make an impact quickly. If you're hiring, let's chat!
+I'm currently on the look out for a role in Frontend web development, ideally writing robust solutions using Nextjs and React.js for frontend and Nodejs and Express  . I'd especially love to work at a startup on a tight knit team where I can make an impact quickly. If you're hiring, let's chat!
 
 
 
@@ -33,31 +33,33 @@ Let's bring your vision to life! Message me so we can discuss how my expertise c
 ✏️ Backend:
 
 ✅ PHP,Custom Framework,
-✅ Javascript, Node.js, Express.js, Nest.js
-✅ 
-✏️ Frontend:
+✅ Javascript, Node.js, Express.js, 
 
-✅  React.js, Nuxt.js, Element UI
+
+✏️ Frontend:
+✅  React.js, Next.js, 
 ✅ Webpack, babel
 ✅ Bootstrap, Tailwind CSS
-✅ jQuery, Datatables,
-✏️ APIs:
+✅ jQuery, 
 
+✏️ APIs:
 ✅ Google Cloud Storage, Google Ads, Google Cloud Vision
-✅ 
+
+
 ✏️ Databases:
 
 ✅ MySQL, MongoDB
 
 
 ✅  Apache,  Bash
+
 ✏️ Testing:
 
+
 ✏️ Design and prototype:
-
 ✅ Adobe XD
-✏️ Tools:
 
+✏️ Tools:
 ✅ Git, Github
 Visitor
 
@@ -143,6 +145,5 @@ Visitor
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/getahunabr/getahunabr/output/snake.svg" alt="Snake animation" />
 
 ###
