@@ -1,6 +1,6 @@
 ![logo](https://github.com/getahunabr/getahunabr/blob/d11396a2c819e14528b480ef49f13affdfc066b6/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png?raw=true)
 
-I've been enjoying web development for the first time ever since I built my first JavaScript project, "Abe Garage". The consolidated toolchain makes me want to leave the other programming ecosystem behind for good.
+I've been enjoying web development for the first time ever since I built my first JavaScript project, "wild oasis". The consolidated toolchain makes me want to leave the other programming ecosystem behind for good.
 
 I'm currently on the look out for a role in Frontend web development, ideally writing robust solutions using Nextjs and React.js for frontend and Nodejs and Express for backend . I'd especially love to work at a startup on a tight knit team where I can make an impact quickly. If you're hiring, let's chat!
 
